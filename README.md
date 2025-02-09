@@ -16,7 +16,7 @@ How To Disable Optimus
 # Second, Once plugging the dummy plug in, Press Windows Icon + P and select extend
 ![image](https://github.com/user-attachments/assets/572fe7bb-093a-4bc0-a566-4bf5b498e60d)
 
-# Third, Make sure to always have it select extend. duplicate has less frames.
+# Third, Make sure to always have it select extend. duplicate will actually make your frames worse than before.
 ![image](https://github.com/user-attachments/assets/1a7e8440-a443-42db-ba8e-877031d292df)
 
 
