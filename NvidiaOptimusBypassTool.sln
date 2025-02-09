@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NvidiaOptimusBypassTool", "NvidiaOptimusBypassTool\NvidiaOptimusBypassTool.csproj", "{38BA159A-C283-417B-9842-96C563080142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BA159A-C283-417B-9842-96C563080142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BA159A-C283-417B-9842-96C563080142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BA159A-C283-417B-9842-96C563080142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BA159A-C283-417B-9842-96C563080142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F521A7-3FC1-4D90-A408-C5688EA4E633}
+	EndGlobalSection
+EndGlobal
