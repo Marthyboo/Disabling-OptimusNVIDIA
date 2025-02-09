@@ -2,9 +2,9 @@
 How To Disable Optimus
 
 # 1. 
-Software Method, Download the file in releases and run it
+HardWare Method, Download the file in releases and run it
 - You'll have to run it as an admin in order for it to work
-- No Guarantee this software method would work, But it Worked for me
+- No Guarantee this method would work, But it Worked for me
 - The tool looks for the registry key in two possible locations on your computer
 - It modifies or adds the OverlayTestMode registry keys to either 5 (disabling optimus) or 0 (to enable it.)
 - The OverlayTestMode registry value is used by Windows to control certain graphical features related to GPU switching and by setting OverlayTestMode to 5, it forces windows to disable optimus
