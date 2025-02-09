@@ -1,8 +1,7 @@
 # Disabling-OptimusNVIDIA
 How To Disable Optimus
 
-# 1. 
-HardWare Method, Download the file in releases and run it
+# First Method. HardWare Method, Download the file in releases and run it
 - You'll have to run it as an admin in order for it to work
 - No Guarantee this method would work, But it Worked for me
 - The tool looks for the registry key in two possible locations on your computer
