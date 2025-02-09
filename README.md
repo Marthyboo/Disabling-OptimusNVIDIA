@@ -1,7 +1,16 @@
 # Disabling-OptimusNVIDIA
 How To Disable Optimus
 
-# First, Buy a HDMI dummy plug, they are around 3-4 dollars on amazon.
+# 1. 
+Software Method, Download the file in releases and run it
+- You'll have to run it as an admin in order for it to work
+- No Guarantee this software method would work, But it Worked for me
+- The tool looks for the registry key in two possible locations on your computer
+- It modifies or adds the OverlayTestMode registry keys to either 5 (disabling optimus) or 0 (to enable it.)
+- The OverlayTestMode registry value is used by Windows to control certain graphical features related to GPU switching and by setting OverlayTestMode to 5, it forces windows to disable optimus
+
+
+# Second Method, Buy a HDMI dummy plug, they are around 3-4 dollars on amazon.
 
 ![image](https://github.com/user-attachments/assets/abc12a87-2311-4b0d-b994-96e0d52625eb)
 
@@ -12,5 +21,5 @@ How To Disable Optimus
 ![image](https://github.com/user-attachments/assets/1a7e8440-a443-42db-ba8e-877031d292df)
 
 
-# Fourth, You're good to go. 
+# Third, You're good to go. 
 Depending on the game, You'll get double the drames you was originally, in my game i had 288 due to optimus, now i get 300-700, mostly at 400-500 
